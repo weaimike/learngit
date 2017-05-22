@@ -1,3 +1,2 @@
-Git is a free version system.
-Git is a software.
-hello test de vi oparation
+Git is a distributed version control system.
+Git is a free software.
